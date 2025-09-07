@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>آيات الكون</title>
+  <style>
+    body {
+      font-family: "Tahoma", Arial, sans-serif;
+      direction: rtl;
+      text-align: center;
+      background: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 20px;
+      font-size: 22px;
+    }
+    main {
+      padding: 20px;
+    }
+    footer {
+      margin-top: 30px;
+      background: #222;
+      color: #fff;
+      padding: 10px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <header>🌌 آيات الكون</header>
+  <main>
+    <h1>بسم الله الرحمن الرحيم</h1>
+    <p>مرحبًا بك في موقعي البسيط على GitHub Pages.</p>
+    <p>هنا سيكون محتوى "آيات الكون".</p>
+  </main>
+  <footer>
+    &copy; 2025 jihadyacoub
+  </footer>
+</body>
+</html>
