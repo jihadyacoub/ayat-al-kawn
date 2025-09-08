@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jihadyacoub.github.io/ayat-al-kawn/sitemap.xml
